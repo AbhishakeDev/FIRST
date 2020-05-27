@@ -1,0 +1,140 @@
+.top {
+  background-color: #b2dffb;
+  text-align: center;
+  padding-top: 50px;
+  position: relative;
+}
+
+.logo {
+  position: relative;
+  bottom: 20px;
+  right: 200px;
+  padding-bottom: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.pic1 {
+  text-align: left;
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.pic2 {
+  text-align: left;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pic3 {
+  text-align: left;
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 30px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Bad Script', cursive;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #2a7886;
+  margin: 0;
+}
+
+.sub {
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 330px;
+}
+
+hr {
+  margin-top: 0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #00909e;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  font-size: 90px;
+  font-family: 'The Girl Next Door', cursive;
+  color: #2fc4b2;
+  margin-top: 50;
+  margin-bottom: 0;
+}
+
+.top-cloud {
+  position: relative;
+  right: 50px;
+}
+
+p {
+  font-family: 'Bree Serif', serif;
+  color: #757575;
+}
+
+.middle-container {
+  background-color: #def4f0;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  background-color: #85a392;
+  text-align: center;
+}
+.myButton {
+	background-color:#85a392;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:19px;
+	font-weight:bold;
+	padding:16px 31px;
+  margin-bottom: 30px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#8ec6c5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+h3 {
+  color: #1fab89;
+}
+
+.contact-me {
+  text-align: center;
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+a:hover{
+ color:#b2dffb;
+}
